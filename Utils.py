@@ -1,6 +1,6 @@
 import os
 
-SCORES_FILE_NAME = r"C:\GH\Final_Project\Games\Scores.txt"
+SCORES_FILE_NAME = r"C:\GH\Final_Project\Final_Games\Scores.txt"
 BAD_RETURN_CODE = -1
 
 
